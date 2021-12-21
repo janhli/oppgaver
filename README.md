@@ -33,7 +33,7 @@ in Norwegian).
 
 Most assignments are only available in Norwegian as of this time. We would like
 to offer coding assignments in more languages. If you are interested in helping
-us add assignments in your language, please be in touch! 
+us add assignments in your language, please be in touch!
 
 The wiki contains guidelines for getting started with GitHub on your computer to
 upload changes and new assignments in a practical and clean way. You will find
@@ -46,3 +46,5 @@ problem or an idea which you do not have a solution for right here and now.
 
 Finally: we need your help! All contributions are highly valued and useful to
 make our websites as good as possible.
+
+hello, world! 2
